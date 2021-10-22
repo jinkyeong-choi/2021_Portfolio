@@ -62,10 +62,8 @@ UI 흐름
 
 작동 영상
 ---
-https://user-images.githubusercontent.com/92618553/138409582-0bed4f3a-2f2d-4d1b-9d5f-7a0ba9b3a61d.mp4
-https://user-images.githubusercontent.com/92618553/138409588-f8fc8e3b-3d8e-4f05-945e-6e47b3e8f378.mp4
-
-<br><br><br>
+https://user-images.githubusercontent.com/92618553/138409582-0bed4f3a-2f2d-4d1b-9d5f-7a0ba9b3a61d.mp4<br><br>
+https://user-images.githubusercontent.com/92618553/138409588-f8fc8e3b-3d8e-4f05-945e-6e47b3e8f378.mp4<br><br><br>
 
 
 작동 사진
