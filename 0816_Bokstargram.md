@@ -80,14 +80,14 @@ https://user-images.githubusercontent.com/92618553/138409588-f8fc8e3b-3d8e-4f05-
 
 > ### 홈<br> 
  : 본인을 제외한 다른 유저들의 최근 게시글을 보여준다.<br>
-<img src = "https://user-images.githubusercontent.com/92618553/138406371-8d69685a-126f-4294-8ef5-45d51e502e87.PNG" width="50%" height="50%"><br><br><br>
+<img src = "https://user-images.githubusercontent.com/92618553/138406371-8d69685a-126f-4294-8ef5-45d51e502e87.PNG" width="70%" height="70%"><br><br><br>
 
 > ### 마이페이지<br> 
 <img src = "https://user-images.githubusercontent.com/92618553/138406398-a1c6cf24-acca-410d-8d59-3e349e5a8cc3.PNG" width="50%" height="50%"><br><br><br>
 
 > ### 게시글 작성<br> 
  : 게시글을 작성하면 서버를 통해 DB에 게시글이 저장된다.<br>
-<img src = "https://user-images.githubusercontent.com/92618553/138406417-21bbfe1e-d441-4b08-969e-f521fdb18961.PNG" width="50%" height="50%"><br><br><br>
+<img src = "https://user-images.githubusercontent.com/92618553/138406417-21bbfe1e-d441-4b08-969e-f521fdb18961.PNG" width="70%" height="70%"><br><br><br>
 
 > ### 친구 검색<br> 
  : 이름을 검색하면 서버를 통해 검색되는 회원의 프로필을 가져온다.<br>
