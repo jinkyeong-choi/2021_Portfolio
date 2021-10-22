@@ -1,5 +1,4 @@
-# 20211008_Carrot_Streaming_Market
-### 당근 스트리밍 마켓
+# 당근 스트리밍 마켓
 <br><br>
 <img src="https://user-images.githubusercontent.com/92618553/138397148-70867060-456e-4cef-9e1f-9c76a37abf63.PNG" width="30%" height="30%"><br><br><br>
 목표
