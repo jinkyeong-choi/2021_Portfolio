@@ -60,8 +60,21 @@ UI 흐름
 <img src = "https://user-images.githubusercontent.com/92618553/138397601-dd4cd01a-f296-4313-a3c1-3aeaaaecfda7.PNG" width="80%" height="80%"><br><br><br>
 
 
+작동 영상
+---
+https://user-images.githubusercontent.com/92618553/138401021-948af522-f854-4548-8bb8-e6d054d48c87.mp4
 
-작동사진
+
+https://user-images.githubusercontent.com/92618553/138401106-b393e669-a3ea-4d97-b84d-d71c1d6cf7e1.mp4
+
+
+
+https://user-images.githubusercontent.com/92618553/138401163-029cba0e-4afc-4319-bcaf-47448c3791e3.mp4
+
+<br><br>
+
+
+작동 사진
 ---
 > ### 홈<br> 
  : 회원가입, 로그인 후 홈화면<br>
