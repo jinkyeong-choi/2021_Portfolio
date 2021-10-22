@@ -1,0 +1,81 @@
+# 탱크 바탈리온
+<br><br>
+<img src="https://user-images.githubusercontent.com/92618553/138421240-27617162-34c1-4854-8fd6-71cdafd559af.PNG" width="40%" height="40%"><br><br><br>
+
+목표
+---
+TCP/IP를 이용해 4명이서 올림픽 게임 5종을 진행한다.<br><br><br>
+
+
+소개
+---
+각 게임 전후 채팅이 가능하고 팀장이 게임을 선택하면 게임이 시작된다. 게임마다 순위별로 점수가 부여되고 제일 점수가 높은 플레이어가 승리한다.<br><br><br>
+
+
+개발환경
+---
+-서버 : Linux-Ubuntu 20.04 / Visual Studio code 1.60.2 / C<br>
+-클라이언트 : Linux-Ubuntu 20.04 / Vim / C<br>
+
+
+
+담당 파트
+---
+양궁 게임 C++ 서버 및 클라이언트 작성<br><br><br>
+
+
+프로젝트 기간
+---
+2021.06.30 ~ 2021.07.04 (2명)<br><br><br>
+
+
+주요 기능
+---
+**1. 5종류 게임 제작**<br>
+-각자 1개의 게임을 담당해서 해당 게임의 서버와 클라이언트 코드 구현<br>
+**2. 코드 합치기**<br>
+ -5가지의 서버, 클라이언트 코드를 오류나지 않게 연결한다.<br><br>
+
+
+
+
+사전조사 및 소감
+---
+<img src="" width="50%"  height="50%"><br><br><br>
+
+
+
+개발완료보고서
+---
+<img src = "https://user-images.githubusercontent.com/92618553/138419311-7955fb71-7a1a-4a5d-8005-9661ee19b2af.PNG" width="70%" height="70%"><br><br><br>
+
+
+
+구조도
+---
+<img src = "" width="70%" height="70%"><br><br><br>
+
+
+
+요구사항 분석서
+---
+<img src = "" width="80%" height="80%"><br><br><br>
+
+
+작동 영상
+---
+
+<br><br>
+
+
+작동 사진
+---
+> ### 게임 전후 채팅창<br>
+: 접속 순서대로 팀장, 선수1, 선수2, 선수3으로 표시된다.
+<img src = "https://user-images.githubusercontent.com/92618553/138419334-4c05711c-822d-4387-88df-c6a4f46dcc4b.PNG" width="80%" height="80%"><br><br><br>
+
+> ### 탁구<br>
+: 2팀으로 나눠 1대 1 대결로 이루어진다.<br>
+<img src = "https://user-images.githubusercontent.com/92618553/138419350-5673baf1-9e36-40b4-93b0-76d1f41b22dc.PNG" width="60%" height="60%"><br><br>
+: 만약 공이 아래와 같이 막대 뒤 빈공간으로 떨어진다면 패배한다.<br>
+<img src = "https://user-images.githubusercontent.com/92618553/138419353-947f717a-b7c6-4484-a5d8-bf590382704f.PNG" width="30%" height="30%"><br><br><br>
