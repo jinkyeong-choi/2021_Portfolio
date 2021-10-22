@@ -74,7 +74,7 @@ UI 흐름
 
 > ### 회원가입<br> 
  : <br>
-<img src = "https://user-images.githubusercontent.com/92618553/138402664-fda125ff-f184-4d84-afee-d7675266e7f4.PNG" width="70%" height="70%"><br><br><br>
+<img src = "https://user-images.githubusercontent.com/92618553/138402664-fda125ff-f184-4d84-afee-d7675266e7f4.PNG" width="80%" height="80%"><br><br><br>
 
 > ### 로그인 후 메인화면<br> 
  : <br>
@@ -82,7 +82,7 @@ UI 흐름
 
 > ### 도서대여<br> 
  : 대출가능여부가 대출붕가능일 때 '대여하기' 버튼 클릭 불가<br>
-<img src = "https://user-images.githubusercontent.com/92618553/138402697-b9ebd6e8-55d1-4132-9c0f-621bc3153519.PNG" width="50%" height="50%"><br><br><br>
+<img src = "https://user-images.githubusercontent.com/92618553/138402697-b9ebd6e8-55d1-4132-9c0f-621bc3153519.PNG" width="70%" height="70%"><br><br><br>
 
 > ### 마이페이지<br> 
  : 마이페이지에서 대여 중인 도서 확인 가능<br>
