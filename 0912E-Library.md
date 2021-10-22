@@ -46,7 +46,7 @@ C++ 서버 구현 및 DB 핸들링<br><br><br>
 
 UI 흐름
 ---
-<img src = "(https://user-images.githubusercontent.com/92618553/138402111-83311e3b-fb8c-4b41-9875-4f20d5efe1f1.PNG" width="60%" height="60%"><br><br><br>
+<img src = "https://user-images.githubusercontent.com/92618553/138402111-83311e3b-fb8c-4b41-9875-4f20d5efe1f1.PNG" width="60%" height="60%"><br><br><br>
 
 
 
