@@ -1,6 +1,6 @@
 # E-Library
 <br><br>
-<img src="https://user-images.githubusercontent.com/92618553/138402052-05b88d2a-4157-424f-aee2-24ee4e624b2b.PNG" width="30%" height="30%"><br><br><br>
+<img src="https://user-images.githubusercontent.com/92618553/138402052-05b88d2a-4157-424f-aee2-24ee4e624b2b.PNG" width="40%" height="40%"><br><br><br>
 
 
 목표
