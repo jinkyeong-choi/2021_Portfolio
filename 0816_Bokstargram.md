@@ -2,7 +2,7 @@
 <br><br>
 <img src="https://user-images.githubusercontent.com/92618553/138406279-accebf90-7992-4dc7-a85c-e0c1f99d603d.PNG" width="30%" height="30%"><br><br><br>
 
-목표
+소개
 ---
 게시글을 올리고 댓글을 달아 SNS 유저들과 소통하는 SNS 프로그램.<br>
 프로필을 편집하고 게시글도 올린다. 홈에서 출력되는 다른 회원들의 게시글을 보고 댓글을 달거나, 좋아요를 누르고, 해당 게시글 작성자의 프로필을 확인할 수 있다.<br><br><br>
